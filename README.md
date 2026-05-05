@@ -1,1 +1,0 @@
-# pmgoriya.github.io

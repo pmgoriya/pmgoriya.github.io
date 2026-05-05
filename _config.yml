@@ -1,0 +1,15 @@
+theme: minima
+title: Pankaj Goriya
+description: Systems, DevOps, and first principles
+
+# important
+collections:
+  posts:
+    output: true
+
+# cleaner URLs
+permalink: /:categories/:title/
+
+# navigation (optional but clean)
+header_pages:
+  - nand2tetris.md
